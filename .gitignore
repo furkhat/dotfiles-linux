@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.xmonad
+.xmonad/*
+!.xmonad/xmonad.hs
+!.xmobarrc
