@@ -103,6 +103,7 @@
       git
       st
       # GUI
+      xmobar
       xbindkeys
       firefox
       dmenu
